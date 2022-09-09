@@ -3,5 +3,6 @@ git status
 git add NameOfTHeFile
 git commit -m"Type your msg here"
 git push 
-git pull  
+git pull 
+commit from Austin 
 commit from Konstantin
